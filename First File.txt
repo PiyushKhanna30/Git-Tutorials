@@ -1,3 +1,6 @@
 This is text.
+
 This is edit by master.
 Now error will occur.
+
+Beta branch edit his.
